@@ -17,7 +17,7 @@ Let's develop an android application with OpenGL ES SDK!
 ![](img/result.gif)
 
 ## Deadline
-if spring class: 4.17. midnight
+If spring class: 4.17. midnight
 
 ## Note
 * Do not use rotate() function. (glm:rotate()) 
