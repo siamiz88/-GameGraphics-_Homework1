@@ -14,7 +14,7 @@ Let's develop an android application with OpenGL ES SDK!
 3. Invest your time to achieve the goal!
 
 ## Result
-![](img/result.gif)
+![](img/result.gif =100 x220)
 
 ## Deadline
 if spring class: 4.17. midnight
