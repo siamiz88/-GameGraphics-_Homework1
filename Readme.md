@@ -8,7 +8,7 @@ Let's develop an android application with OpenGL ES SDK!
 * [Note](#note)
 
 
-## procedure
+## Procedure
 1. Download the files in this repository and unzip the OpenGLES_HW1.zip. 
    - (Password is required. Please check the klas information.)
 2. Follow the instructions provided by GG_HW1_guide.pdf
