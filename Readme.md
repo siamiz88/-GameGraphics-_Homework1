@@ -18,9 +18,11 @@ Let's develop an android application with OpenGL ES SDK!
 ![](img/result.gif)
 
 ## Deadline
-If spring class: 4.24. 23:50
+* If spring class: 4.24. 23:50
 
 ## Note
-* Do not use rotate() function. (glm:rotate()) 
+* Do not use rotate() function. (e.g. glm:rotate()) 
 * OpenGLES uses column major order. 
 * Wrong computed normal leads weird shading (lighting). Look carefully. 
+* https://github.com/bisily/Teapot shows an submission example. 
+* Thank you for your star.
