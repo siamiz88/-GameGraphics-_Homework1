@@ -23,6 +23,6 @@ Let's develop an android application with OpenGL ES SDK!
 ## Note
 * Do not use rotate() function. (e.g. glm:rotate()) 
 * OpenGLES uses column major order. 
-* Wrong computed normal leads weird shading (lighting). Look carefully. 
+* Wrong computed normal leads weird shading (lighting) results. Please look carefully. 
 * https://github.com/bisily/Teapot shows an submission example. 
 * Thank you for your star.
